@@ -27,16 +27,16 @@ J'aime relever des défis, apprendre de nouvelles choses chaque jour.
 
 ### 📚 Bibliothèques que j'ai hate de découvrir
 
-1. **Redux** - [Site officiel](https://redux.js.org)
-2. **Docker** - [Site officiel](https://www.docker.com)
-3. **GraphQL** - [Site officiel](https://graphql.org)
-4. **Axios** - [Site officiel](https://axios-http.com)
-5. **Lodash** - [Site officiel](https://lodash.com)
-6. **Ant Design** - [Site officiel](https://ant.design)
-7. **Moment.js** - [Site officiel](https://momentjs.com)
-8. **Formik** - [Site officiel](https://formik.org)
-9. **React Query** - [Site officiel](https://react-query.tanstack.com)
-10. **Socket.io** - [Site officiel](https://socket.io)
+- Redux - [Site officiel](https://redux.js.org)
+- Docker - [Site officiel](https://www.docker.com)
+- GraphQL - [Site officiel](https://graphql.org)
+- Axios - [Site officiel](https://axios-http.com)
+- Lodash - [Site officiel](https://lodash.com)
+- Ant Design - [Site officiel](https://ant.design)
+- Moment.js - [Site officiel](https://momentjs.com)
+- Formik - [Site officiel](https://formik.org)
+- React Query - [Site officiel](https://react-query.tanstack.com)
+- Socket.io - [Site officiel](https://socket.io)
 
 ### ☁️ Cloud et autres outils déjà utilisés
 - Services AWS
