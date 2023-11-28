@@ -1,59 +1,48 @@
-# 👋 À propos de moi
-Bonjour, je suis un développeur web frontend passionné basé en Ile-de-france.
-Ma passion pour le développement web et ma soif d'apprentissage 📚 me permettent de m'adapter rapidement aux nouvelles technologies 🚀 et tendances.
-J'aime relever des défis, apprendre de nouvelles choses chaque jour.
+[![98843415-1d73-48b3-b777-335ca51c32f3](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/ccd21f0b-c35a-4037-a0ae-04ff4b12ee57)](https://adrienpoua.fr)
+
+# 👋 Activité
+
+<h1 align="center" >
+  &nbsp;
+  
+Cherche entreprise en région parisienne
+  
+  &nbsp;
+</h1>
+
+
 
 ## 🛠 Technologies et bibliothèques
 
-### 💻 Frontend
-- JavaScript
-- React
-- NextJS
-- SASS
-- Typescript
+<div align="center">
 
-### ⚙️ Backend
-- Node.js
-- Express
-- MongoDB
+| 💻 Frontend       | ⚙️ Backend     | 📚 Libraries Used | 📚 Next to Explore | ☁️ Cloud & Tools Used |
+|-------------------|-----------------|-------------------|---------------------|------------------------|
+| React             | Node.js         | Material UI       | Redux               | Services AWS           |
+| Typescript        | Express         | Framer Motion     | Docker              | Vercel                 |
+| NextJS            | MongoDB         | Bootstrap         | GraphQL             | Netlify                |
+| SASS              |                 | React Router      | Axios               | Hostinger              |
+| ThreeJS           |                 | Tailwind          | Lodash              |                        |
+|                   |                 |                   | Ant Design          |                        |
+|                   |                 |                   | Moment.js           |                        |
+|                   |                 |                   | Formik              |                        |
+|                   |                 |                   | React Query         |                        |
+|                   |                 |                   | Socket.io           |                        |
 
-### 📚 Bibliothèques utilisées
-  
-- Material UI - [Site officiel](https://mui.com)
-- Framer Motion - [Site officiel](https://www.framer.com/motion/)
-- Bootstrap - [Site officiel](https://getbootstrap.com/)
-- React Router - [Site officiel](https://reactrouter.com)
-- Tailwind - [Site officiel](https://tailwindcss.com)
+</div>
 
-### 📚 Bibliothèques que j'ai hate de découvrir
-
-- Redux - [Site officiel](https://redux.js.org)
-- Docker - [Site officiel](https://www.docker.com)
-- GraphQL - [Site officiel](https://graphql.org)
-- Axios - [Site officiel](https://axios-http.com)
-- Lodash - [Site officiel](https://lodash.com)
-- Ant Design - [Site officiel](https://ant.design)
-- Moment.js - [Site officiel](https://momentjs.com)
-- Formik - [Site officiel](https://formik.org)
-- React Query - [Site officiel](https://react-query.tanstack.com)
-- Socket.io - [Site officiel](https://socket.io)
-
-### ☁️ Cloud et autres outils déjà utilisés
-- Services AWS
-- Vercel
-- Netlify
-- Hostinger
-
-## 🌟 Portfolio
-
-Je vous laisse découvrir mon portfolio qui résume mes projets notables : [portfolio](https://adrienpoua.fr]
 
 ## 📬 Contact
+
 Pour en savoir plus sur mon travail ou pour discuter de futures collaborations, n'hésitez pas à me contacter :
 
 - 📧 Email: adrien.poua@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/adrien-poua/
+- 🌍 Portfolio : https://adrienpoua.fr
+  &nbsp;
+  
+  &nbsp;
 
 ---
 
-Merci de visiter mon profil GitHub ! 😊
+<p align="center"> Merci d'avoir visiter mon profil GitHub ! 😊 </p>
