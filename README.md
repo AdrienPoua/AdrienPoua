@@ -1,16 +1,37 @@
-### Hi there 👋
+# 👋 À propos de moi
+Bonjour, je suis un développeur web frontend passionné basé en Ile-de-france.
+Ma passion pour le développement web et ma soif d'apprentissage 📚 me permettent de m'adapter rapidement aux nouvelles technologies 🚀 et tendances.
+J'aime relever des défis, apprendre de nouvelles choses chaque jour.
 
-<!--
-**AdrienPoua/AdrienPoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technologies et bibliothèques
+J'ai eu l'occasion de travailler avec un large éventail de technologies et de bibliothèques, notamment :
 
-Here are some ideas to get you started:
+### 💻 Frontend
+- JavaScript
+- React
+- NextJS
+- SASS
+- Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Backend
+- Node.js
+- Express
+- MongoDB
+
+### ☁️ Cloud et autres outils
+- Services AWS
+
+
+## 🌟 Portfolio
+
+Je vous laisse découvrir mon portfolio qui résume mes projets notables : [portfolio](https://adrienpoua.fr]
+
+## 📬 Contact
+Pour en savoir plus sur mon travail ou pour discuter de futures collaborations, n'hésitez pas à me contacter :
+
+- 📧 Email: adrien.poua@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/adrien-poua/
+
+---
+
+Merci de visiter mon profil GitHub ! 😊
