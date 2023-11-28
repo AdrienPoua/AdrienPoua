@@ -13,7 +13,8 @@ Cherche entreprise en région parisienne
 
 
 ## 🛠 Technologies et bibliothèques
-
+  &nbsp; 
+    &nbsp;
 <div align="center">
 
 | 💻 Frontend       | ⚙️ Backend     | 📚 Libraries Used | 📚 Next to Explore | ☁️ Cloud & Tools Used |
@@ -30,7 +31,7 @@ Cherche entreprise en région parisienne
 |                   |                 |                   | Socket.io           |                        |
 
 </div>
-
+  &nbsp;
 
 ## 📬 Contact
 
