@@ -30,6 +30,7 @@ Cherche entreprise en région parisienne
 |                   |                 |                   | React Query         |                        |
 |                   |                 |                   | Cypress             |                        |
 |                   |                 |                   | Socket.io           |                        |
+|                   |                 |                   | Semantic UI  React  |                        |
 
 </div>
   &nbsp;
