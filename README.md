@@ -28,6 +28,7 @@ Cherche entreprise en région parisienne
 |                   |                 |                   | Moment.js           |                        |
 |                   |                 |                   | Formik              |                        |
 |                   |                 |                   | React Query         |                        |
+|                   |                 |                   | Cypress             |                        |
 |                   |                 |                   | Socket.io           |                        |
 
 </div>
