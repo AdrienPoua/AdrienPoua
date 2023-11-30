@@ -1,6 +1,18 @@
 [![98843415-1d73-48b3-b777-335ca51c32f3](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/ccd21f0b-c35a-4037-a0ae-04ff4b12ee57)](https://adrienpoua.fr)
 
-# 👋 Activité
+# Objectifs
+
+Je m'engage dans une veille technologique proactive, explorant des domaines au-delà de mon cursus formel. <br/>
+Cette démarche vise à enrichir mes compétences avec des pratiques essentielles afin d'apporter une contribution significative dans nos futures collaborations. <br/>
+  &nbsp;
+  
+Mes prochains sujets de veille : 
+
+* Test Driven Developpement ( projet à faire avec Jest/Cypress )
+* Clean Code
+
+
+# 👋 Statut
 
 <h1 align="center" >
   &nbsp;
