@@ -6,11 +6,10 @@ Je m'engage dans une veille technologique proactive, explorant des domaines au-d
 Cette démarche vise à enrichir mes compétences avec des pratiques essentielles afin d'apporter une contribution significative dans nos futures collaborations. <br/>
   &nbsp;
   
-Mes prochains sujets de veille : 
+Veille en cours  : 
 
-* Test Driven Developpement ( projet à faire avec Jest/Cypress )
-* Code lisible, maintenable, et propre.
-* Debug
+* Qualité de code :  TDD, BDD, tests unitaires, tests E2E
+
 
 # 👋 Statut
 
