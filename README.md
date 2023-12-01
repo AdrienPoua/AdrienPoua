@@ -9,9 +9,8 @@ Cette démarche vise à enrichir mes compétences avec des pratiques essentielle
 Mes prochains sujets de veille : 
 
 * Test Driven Developpement ( projet à faire avec Jest/Cypress )
-* Clean Code
 * Code lisible, maintenable, et propre.
-
+* Debug
 
 # 👋 Statut
 
