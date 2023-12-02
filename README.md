@@ -1,6 +1,6 @@
 [![98843415-1d73-48b3-b777-335ca51c32f3](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/ccd21f0b-c35a-4037-a0ae-04ff4b12ee57)](https://adrienpoua.fr)
 
-# Objectifs
+# 🎯 Objectifs
 
 <h3 align="center"> Explorer au-delà de mon cursus de formation </h3>
 <p align="center"> ↓ </p>
@@ -12,18 +12,23 @@
   &nbsp;
   &nbsp;
 
- <h1 > Suivez ma progression <h1/> <br/>
+ <h1 > 💹 Suivez ma progression <h1/> <br/>
    
 [![notion](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/7fdc7ca7-f6a0-4939-a738-74f38bf49576)](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
    
    [Mon kanban Notion](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
+       &nbsp; 
 
-# 👋 Statut
+  
+
+# 🔎 Disponibilité
+
+    
 
 <h1 align="center" >
   &nbsp;
   
-Cherche entreprise en région parisienne
+ Cherche entreprise en région parisienne
   
   &nbsp;
 </h1>
@@ -46,7 +51,6 @@ Cherche entreprise en région parisienne
 |                   |                 |                   | Moment.js           |                        |
 |                   |                 |                   | Formik              |                        |
 |                   |                 |                   | React Query         |                        |
-|                   |                 |                   |                     |                        |
 |                   |                 |                   | Socket.io           |                        |
 |                   |                 |                   | Semantic UI  React  |                        |
 
