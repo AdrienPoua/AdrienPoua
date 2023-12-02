@@ -1,19 +1,22 @@
 [![98843415-1d73-48b3-b777-335ca51c32f3](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/ccd21f0b-c35a-4037-a0ae-04ff4b12ee57)](https://adrienpoua.fr)
 
-# Objectif
+# Objectifs
 
-Je m'engage dans une veille technologique proactive, explorant des domaines au-delà de mon cursus formel. <br/>
-Cette démarche vise à enrichir mes compétences avec des pratiques essentielles afin d'apporter une contribution significative dans nos futures collaborations. <br/>
+<h3 align="center"> Explorer au-delà de mon cursus de formation </h3>
+<p align="center"> ↓ </p>
+<h3 align="center"> Trouver une équipe qui me donne envie de me lever tôt et me coucher tard </h3>
+<p align="center"> ↓ </p>
+<h3 align="center"> Apporter une contribution significative dans nos futures collaborations. </h3>
+<p align="center"> ↓ </p>
+<h3 align="center"> Rire, sourir & être en bonne santé ❤ </h3>
+  &nbsp;
   &nbsp;
 
-  <h1 align="center">
-Veille en cours 🟢 : </h4> <br/>
-  &nbsp;
- <p align="center"> Qualité de code :  TDD, BDD, tests unitaires, tests E2E </p>
- <p align="center"> Suit mon avancé sur Notion </p>
-
- ![notion](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/7fdc7ca7-f6a0-4939-a738-74f38bf49576)(https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
- Notion(https://www.notion.so/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
+ <h1 > Suivez ma progression <h1/> <br/>
+   
+[![notion](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/7fdc7ca7-f6a0-4939-a738-74f38bf49576)](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
+   
+   [Mon kanban Notion](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
 
 # 👋 Statut
 
@@ -39,11 +42,11 @@ Cherche entreprise en région parisienne
 | NextJS            | MongoDB         | Bootstrap         | GraphQL             | Netlify                |
 | SASS              |                 | React Router      | Axios               | Hostinger              |
 | ThreeJS           |                 | Tailwind          | Lodash              |                        |
-|                   |                 |                   | Ant Design          |                        |
+|                   |                 | Cypress           | Ant Design          |                        |
 |                   |                 |                   | Moment.js           |                        |
 |                   |                 |                   | Formik              |                        |
 |                   |                 |                   | React Query         |                        |
-|                   |                 |                   | Cypress             |                        |
+|                   |                 |                   |                     |                        |
 |                   |                 |                   | Socket.io           |                        |
 |                   |                 |                   | Semantic UI  React  |                        |
 
