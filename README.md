@@ -29,6 +29,7 @@ Pour en savoir plus sur mon travail ou pour discuter de futures collaborations, 
 - 📧 Email: adrien.poua@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/adrien-poua/
 - 🌍 Portfolio : https://adrienpoua.fr
+- 🏀 Dernier projet : argenteuilbasketball.com
   &nbsp;
   
   &nbsp;
