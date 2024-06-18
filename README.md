@@ -2,8 +2,6 @@
 
 # 🎯 Objectifs
 
-<h3 align="center"> Explorer au-delà de mon cursus de formation </h3>
-<p align="center"> ↓ </p>
 <h3 align="center"> Trouver une équipe qui me donne envie de me lever tôt et me coucher tard </h3>
 <p align="center"> ↓ </p>
 <h3 align="center"> Apporter une contribution significative dans nos futures collaborations. </h3>
@@ -12,18 +10,9 @@
   &nbsp;
   &nbsp;
 
- <h1 > 💹 Suivez ma progression <h1/> <br/>
-   
-[![notion](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/7fdc7ca7-f6a0-4939-a738-74f38bf49576)](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
-   
-   [Mon kanban Notion](https://ablaze-glue-564.notion.site/Veille-informationnelle-5fcf4e51a74f47bc98c1b7f310b55e47)
-       &nbsp; 
-
-  
 
 # 🔎 Disponibilité
 
-    
 
 <h1 align="center" >
   &nbsp;
@@ -32,30 +21,6 @@
   
   &nbsp;
 </h1>
-
-
-
-## 🛠 Technologies et bibliothèques
-  &nbsp; 
-    &nbsp;
-<div align="center">
-
-| 💻 Frontend       | ⚙️ Backend     | 📚 Libraries Used | 📚 Next to Explore | ☁️ Cloud & Tools Used |
-|-------------------|-----------------|-------------------|---------------------|------------------------|
-| React             | Node.js         | Material UI       | Redux               | Services AWS           |
-| Typescript        | Express         | Framer Motion     | Docker              | Vercel                 |
-| NextJS            | MongoDB         | Bootstrap         | GraphQL             | Netlify                |
-| SASS              |                 | React Router      | Axios               | Hostinger              |
-| ThreeJS           |                 | Tailwind          | Lodash              |                        |
-|                   |                 | Cypress           | Ant Design          |                        |
-|                   |                 |                   | Moment.js           |                        |
-|                   |                 |                   | Formik              |                        |
-|                   |                 |                   | React Query         |                        |
-|                   |                 |                   | Socket.io           |                        |
-|                   |                 |                   | Semantic UI  React  |                        |
-
-</div>
-  &nbsp;
 
 ## 📬 Contact
 
