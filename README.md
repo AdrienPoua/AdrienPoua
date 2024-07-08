@@ -1,21 +1,10 @@
 ## Stacks
 
-![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100" height="100" style="animation: spin 5s linear infinite;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="100" style="animation: spin 5s linear infinite;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="100" style="animation: spin 5s linear infinite;">
 </p>
-
-<style>
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
 
 
 # 🎯 Objectifs
