@@ -1,4 +1,6 @@
-[![98843415-1d73-48b3-b777-335ca51c32f3](https://github.com/AdrienPoua/AdrienPoua/assets/73964028/ccd21f0b-c35a-4037-a0ae-04ff4b12ee57)](https://adrienpoua.fr)
+![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 # 🎯 Objectifs
 
