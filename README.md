@@ -26,7 +26,7 @@
   &nbsp;
 </h1>
 
-## 📬 Contact
+# 📬 Contact
 
 Pour en savoir plus sur mon travail ou pour discuter de futures collaborations, n'hésitez pas à me contacter :
 
