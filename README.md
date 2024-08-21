@@ -1,30 +1,4 @@
-<p align="center">
-  <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="Next.js" width="100" height="100" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="100" >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="100" height="100" >
-</p>
-
-# 🎯 Objectifs
-
-<h3 align="center"> Trouver une équipe qui me donne envie de me lever tôt et me coucher tard </h3>
-<p align="center"> ↓ </p>
-<h3 align="center"> Apporter une contribution significative dans nos futures collaborations. </h3>
-<p align="center"> ↓ </p>
-<h3 align="center"> Rire, sourir & être en bonne santé ❤ </h3>
-  &nbsp;
-  &nbsp;
-
-
-# 🔎 Disponibilité
-
-
-<h1 align="center" >
-  &nbsp;
-  
- Cherche entreprise en région parisienne
-  
-  &nbsp;
-</h1>
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/66c59f640006c3eb338d/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
 
 # 📬 Contact
 
