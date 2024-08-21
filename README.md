@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANextjs-logo.svg&psig=AOvVaw23pE7v_IYfy5A-Rw-RUAzN&ust=1724314189944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiOjojRhYgDFQAAAAAdAAAAABAE)" alt="Next.js" width="100" height="100" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100" height="100" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="100" height="100" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="100" height="100" >
 </p>
